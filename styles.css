@@ -70,11 +70,18 @@ button:hover {
     background-color: rgb(99, 162, 235);
 }
 
+#image1{
+    border-radius: 30px;
+    opacity: 0.85;
+    float: right;
+    width: 300px;
+}
 
-  #logooo{
-      margin-top: 10px;
+#logooo{
+      margin-top: -5px;
       float: left;
       margin-left: 50px;
+      width: 70px;
   }
   nav a{
       text-decoration: none;
